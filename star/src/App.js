@@ -3,8 +3,8 @@
 // import Clock from "./components/useState/Clock";
 // import Print from "./components/useState/Print"
 // import Bank from "./components/useReducer/Bank";
-
-import Attendance from "./components/useReducer/Attendance";
+// import Attendance from "./components/useReducer/Attendance";
+import Count from "./components/useRef/Count"
 
 function App() {
   return (
@@ -13,9 +13,9 @@ function App() {
     <Print />
     <Update />
     <CleanUp />
-    <Bank /> */}
-    <Attendance />
-
+    <Bank />
+    <Attendance /> */}
+    <Count />
 
     </>
   );
